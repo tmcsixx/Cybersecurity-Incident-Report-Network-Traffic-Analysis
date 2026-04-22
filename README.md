@@ -20,23 +20,23 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/e6GtNfy.png" height="80%" width="80%" alt="scenario overview"/>
+<img src="https://imgur.com/JL8zPIx.png" height="80%" width="80%" alt="scenario overview"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+TCPdump Log Overview:  <br/>
+<img src="https://imgur.com/fmG7f6k.png" height="80%" width="80%" alt="TCPdump Log"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log Findings: <br/>
+<img src="https://imgur.com/ac1eXBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+My analysis:  <br/>
+<img src="https://imgur.com/5fVRWZj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+my analysis (Part 2):  <br/>
+<img src="https://imgur.com/H8IvL0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
