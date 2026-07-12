@@ -24,8 +24,9 @@ Retrieve after hours failed login attempts: <br/>
  <img src="https://i.imgur.com/sXpHBVf.png"/>
 <br />
 <br />
-TCPdump Log Overview:  <br/>
-<img src="https://imgur.com/fmG7f6k.png" height="80%" width="80%" alt="TCPdump Log"/>
+Retrieve login attempts on specific dates:  <br/>
+<img src="https://i.imgur.com/o44masu.png"/>
+ <img src="https://i.imgur.com/FqhW90M.png"/>
 <br />
 <br />
 Log Findings: <br/>
