@@ -44,7 +44,9 @@ Retrieve employees in Finance or Sales:  <br/>
  <img src="https://i.imgur.com/cfMMoIY.png"/>
 <br />
 <br />
-
+Retrieve all employees not in IT:  <br/>
+<img src="https://i.imgur.com/l5XuCjC.png"/>
+<img src="https://i.imgur.com/iBHTEaK.png"/>
 </p>
 
 <!--
