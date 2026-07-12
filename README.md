@@ -20,7 +20,7 @@ My organization is working to make its system more secure. As a security profess
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/JL8zPIx.png" height="80%" width="80%" alt="scenario overview"/>
+<img src="https://i.imgur.com/sXpHBVf.png"/>
 <br />
 <br />
 TCPdump Log Overview:  <br/>
