@@ -19,8 +19,9 @@ My organization is working to make its system more secure. As a security profess
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/sXpHBVf.png"/>
+Retrieve after hours failed login attempts: <br/>
+ <img src="https://i.imgur.com/PiCcIjB.png"/>
+ <img src="https://i.imgur.com/sXpHBVf.png"/>
 <br />
 <br />
 TCPdump Log Overview:  <br/>
