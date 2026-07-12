@@ -29,8 +29,9 @@ Retrieve login attempts on specific dates:  <br/>
  <img src="https://i.imgur.com/FqhW90M.png"/>
 <br />
 <br />
-Log Findings: <br/>
-<img src="https://imgur.com/ac1eXBc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Retrieve login attempts outside of Mexico: <br/>
+<img src="https://i.imgur.com/PNkTMEX.png"/>
+ <img src="https://i.imgur.com/mJNIGaH.png"/>
 <br />
 <br />
 My analysis:  <br/>
