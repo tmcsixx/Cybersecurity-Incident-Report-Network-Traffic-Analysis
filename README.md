@@ -34,8 +34,9 @@ Retrieve login attempts outside of Mexico: <br/>
  <img src="https://i.imgur.com/mJNIGaH.png"/>
 <br />
 <br />
-My analysis:  <br/>
-<img src="https://imgur.com/5fVRWZj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Retrieve employees in Marketing:  <br/>
+<img src="https://i.imgur.com/Ix6dsnw.png"/>
+ <img src="https://i.imgur.com/TTka9me.png"/>
 <br />
 <br />
 my analysis (Part 2):  <br/>
