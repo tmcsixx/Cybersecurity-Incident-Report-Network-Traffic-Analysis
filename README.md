@@ -2,7 +2,7 @@
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>Description</h2>
+<h2>Project Description</h2>
 My organization is working to make its system more secure. As a security professional, it is my responsibility to investigate potential security issues and identify employee computers that require updates. In this project, I used SQL queries with filters such as AND, OR, NOT, LIKE, and date and time conditions to retrieve relevant information from the organization's database and support security investigations.
 <br />
 
