@@ -39,8 +39,9 @@ Retrieve employees in Marketing:  <br/>
  <img src="https://i.imgur.com/TTka9me.png"/>
 <br />
 <br />
-my analysis (Part 2):  <br/>
-<img src="https://imgur.com/H8IvL0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Retrieve employees in Finance or Sales:  <br/>
+<img src="https://i.imgur.com/v8HD5st.png"/>
+ <img src="https://i.imgur.com/cfMMoIY.png"/>
 <br />
 <br />
 
